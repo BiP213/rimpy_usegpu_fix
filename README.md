@@ -1,4 +1,4 @@
-# rimpy_usegpu_fix ![](https://img.shields.io/badge/License-GPLv3-blue.svg) [![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) 
+# rimpy_usegpu_fix ![](https://img.shields.io/badge/License-GPLv3-blue.svg) [![python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) 
 Makes RimPy Mod Manager use dedicated GPU for converting .png images to .dds files via scripts.
 
 ## Installation  
